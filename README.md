@@ -8,7 +8,7 @@
   <br/>
   
   <!-- Social Badges -->
-  <a href="https://linkedin.com/in/mohammad-sadiq-rasouli-273527146">
+  <a href="https://linkedin.com/in/sadiqrasouli">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sadiqcodings@gmail.com">
@@ -138,7 +138,7 @@ Pune University, Maharashtra, India
 |----------|------|
 | **📧 Email** | [sadiqcodings@gmail.com](mailto:sadiqcodings@gmail.com) |
 | **📱 Phone** | [+93 745 414 469](tel:+93745414469) |
-| **🔗 LinkedIn** | [Mohammad Sadiq Rasouli](https://linkedin.com/in/mohammad-sadiq-rasouli-273527146) |
+| **🔗 LinkedIn** | [Mohammad Sadiq Rasouli](https://linkedin.com/in/sadiqrasouli) |
 
 ---
 
